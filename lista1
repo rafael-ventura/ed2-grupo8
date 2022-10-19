@@ -1,5 +1,5 @@
 #1 python - O(n^2)
-#2 java - O(n log n)
+#2 java - O(n^3)
 #3 C - O(1)
 #4 C# - O(n log n)
 #5 C++ - O(n)
